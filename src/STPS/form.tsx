@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 
-const FormSTPS = () => {
+const FormSTPS1 = () => {
   return (
     <div>
       Form STPS
